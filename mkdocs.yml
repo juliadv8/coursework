@@ -1,7 +1,7 @@
 site_name: Курсовая работа
 site_description: Coursework Introduction in web technologies
 site_author: Julia Duchenko
-site_url: https://aqcoach.ru/coursework
+site_url: https://juliadv8.github.io/coursework/
 
 theme:
   name: material
