@@ -1,6 +1,9 @@
 ## Обо мне
 
-![Моё фото](images/profile.jpg){ width="100" loading="lazy" }
+<figure style="text-align:center" markdown>
+  <img src="images/profile.jpg" alt="Моё фото" width="260" loading="lazy">
+  <figcaption>Привет! Это я :)</figcaption>
+</figure>
 
   **Привет!**  
   Меня зовут Юлия, я Product & Project manager. Более 5 лет занимаюсь организацией и запуском проектов: соединяю продукт, маркетинг и продажи в единые бизнес-процессы в сферах *EdTech, MICE, MedTech*. Параллельно веду свой *проект по коучинговому сопровождению*.
