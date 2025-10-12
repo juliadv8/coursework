@@ -1,17 +1,6 @@
 ## Обо мне
 
-<div>
-<figure style="text-align:center" markdown>
-  <img
-    src="images/profile.jpg"
-    alt="Моё фото"
-    width="160"
-    height="160"
-    style="border-radius:50%; object-fit:cover; display:inline-block;"
-    loading="lazy"
-  >
-</figure>
-</div>
+![Моё фото](images/profile.jpg){ style="border-radius:50%; width:260px; height:260px; object-fit:cover;" loading="lazy" }
 
 **Привет!**  
   
