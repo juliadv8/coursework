@@ -32,7 +32,7 @@ theme:
 
 nav:
   - Главная: index.md
-  - О себе: about.md
+  - Обо мне: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
 
