@@ -1,5 +1,3 @@
-## Обо мне
-
 ![Моё фото](images/profile.jpg){ style="border-radius:50%; width:260px; height:260px; object-fit:cover;" loading="lazy" }
 
 **Привет!**  
