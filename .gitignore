@@ -17,3 +17,21 @@ _site/
 # counterproductive to check this file into the repository.
 # Details at https://github.com/github/pages-gem/issues/768
 Gemfile.lock
+
+
+## 2) `docs/blog/posts/2025-10-13-images-in-mkdocs.md`
+```markdown
+---
+title: Изображения в MkDocs — 7 частых ошибок и как их исправить
+date: 2025-10-13
+tags:
+  - mkdocs
+  - images
+  - troubleshooting
+summary: Картинки не отображаются? Проверь эти пункты — и всё заработает.
+---
+
+# Изображения в MkDocs — 7 частых ошибок и как их исправить
+
+## 1) Файлы должны лежать в `docs/…`
+Правильно:
