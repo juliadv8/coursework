@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://juliadv8.github.io/coursework/sitemap.xml
