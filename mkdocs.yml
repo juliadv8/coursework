@@ -1,4 +1,4 @@
-site_name: Курсовая работа ICT - Юлия Дученко
+site_name: Курсовая работа ICT - Дученко Юлия
 site_description: Coursework Introduction in web technologies
 site_author: Julia Duchenko
 site_url: https://juliadv8.github.io/coursework/
@@ -8,11 +8,6 @@ theme:
   language: ru
   font:
     text: Montserrat
-  icon:
-    logo: images/logo.svg
-    favicon: images/favicon.png
-extra_css:
-  - styles/typography.css
   features:
     - navigation.tabs
     - navigation.sections
@@ -32,10 +27,12 @@ extra_css:
       toggle:
         icon: material/weather-sunny
         name: light scheme
+  logo: images/logo.svg          # docs/images/logo.svg
+  favicon: images/favicon.png    # docs/images/favicon.png
 
 nav:
   - Главная: index.md
-  - Обо мне: about.md
+  - О себе: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
 
@@ -46,7 +43,7 @@ plugins:
 
 markdown_extensions:
   - toc:
-      permalink: true 
+      permalink: true
   - admonition
   - attr_list
   - md_in_html
@@ -69,12 +66,17 @@ extra:
     - icon: simple/github
       link: https://github.com/juliadv8
     - icon: simple/telegram
-      link: https://t.me/julienko 
+      link: https://t.me/julienko
 
 copyright: >
   © 2025 Julia D. HBM 2025
 
+# Сервисные настройки
 site_dir: site
 strict: false
 use_directory_urls: true
 docs_dir: docs
+
+# Подключение ваших кастомных стилей (заголовки Playfair и т.п.)
+extra_css:
+  - styles/typography.css
