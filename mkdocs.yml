@@ -32,10 +32,12 @@ theme:
 
 nav:
   - Главная: index.md
-  - Обо мне: about.md
+  - О себе: about.md
   - Проекты: projects.md
-  - Блог: blog/index.md
   - Контакты: contacts.md
+  - Блог:
+      - Как устроен этот сайт (MkDocs + Material): blog/2025-10-13-first-post.md
+      - Карточки и кнопки в Material — быстрый шаблон: blog/2025-10-12-cards-and-buttons.md
 
 plugins:
   - search:
