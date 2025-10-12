@@ -40,10 +40,10 @@ nav:
 plugins:
   - search:
       lang: [ru]
-  - sitemap:
-      changefreq: daily
-      priority: 0.5
-  - blog    
+  # - sitemap:
+  #     changefreq: daily
+  #     priority: 0.5
+  - blog 
       
 markdown_extensions:
   - toc:
