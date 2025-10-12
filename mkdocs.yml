@@ -21,14 +21,14 @@ theme:
     - search.share
   palette:
     - scheme: default
-      primary: brown
-      accent: deep orange
+      primary: green
+      accent: lime
       toggle:
         icon: material/weather-night
         name: dark scheme
     - scheme: slate
-      primary: brown
-      accent: deep orange
+      primary: green
+      accent: lime
       toggle:
         icon: material/weather-sunny
         name: light scheme
