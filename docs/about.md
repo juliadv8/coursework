@@ -9,7 +9,6 @@
     style="border-radius:50%; object-fit:cover; display:inline-block;"
     loading="lazy"
   >
-  <figcaption>Привет! Это я :)</figcaption>
 </figure>
 
   **Привет!**  
