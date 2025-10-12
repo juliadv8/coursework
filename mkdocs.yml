@@ -38,8 +38,10 @@ nav:
 
 plugins:
   - search:
-      lang:
-        - ru
+      lang: [ru]
+  - sitemap:
+      changefreq: daily
+      priority: 0.5
 
 markdown_extensions:
   - toc:
