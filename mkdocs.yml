@@ -1,0 +1,80 @@
+site_name: Курсовая работа
+site_description: Coursework Introduction in web technologies
+site_author: Julia Duchenko
+site_url: https://aqcoach.ru/coursework
+
+theme:
+  name: material
+  language: ru
+  font:
+    text: Montserrat
+  icon:
+    logo: material/rocket-launch
+    favicon: images/favicon.png
+  extra_css:
+  - styles/typography.css
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.share
+  palette:
+    - scheme: default
+      primary: brown
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: dark scheme
+    - scheme: slate
+      primary: brown
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: light scheme
+
+nav:
+  - Главная: index.md
+  - Обо мне: about.md
+  - Проекты: projects.md
+  - Контакты: contacts.md
+
+plugins:
+  - search:
+      lang:
+        - ru
+
+markdown_extensions:
+  - toc:
+      permalink: true 
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - tables
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+repo_url: https://github.com/juliadv8/coursework
+repo_name: juliadv8/coursework
+edit_uri: edit/main/docs/
+
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/juliadv8
+    - icon: simple/telegram
+      link: https://t.me/julienko 
+
+copyright: >
+  © 2025 Julia D. HBM 2025
+
+site_dir: site
+strict: false
+use_directory_urls: true
+docs_dir: docs
