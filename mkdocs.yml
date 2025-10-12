@@ -43,17 +43,7 @@ plugins:
   - sitemap:
       changefreq: daily
       priority: 0.5
-  - rss:
-      match_path: blog/.*          # только посты из папки blog
-      date_from_meta:
-        - date                     # берём дату из front matter
-      categories:
-        - tags                     # категории из массива tags
-      enabled: true
-  - git-revision-date-localized:
-      type: date
-      locale: ru
-      fallback_to_build_date: true
+  - blog    
       
 markdown_extensions:
   - toc:
