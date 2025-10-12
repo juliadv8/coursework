@@ -77,6 +77,7 @@ strict: false
 use_directory_urls: true
 docs_dir: docs
 
-# Подключение ваших кастомных стилей (заголовки Playfair и т.п.)
+
 extra_css:
   - styles/typography.css
+  - styles/about.css
