@@ -3,7 +3,7 @@
 <h1>Обо мне</h1>
 
 <div class="about-wrap" markdown>
-  <img src="images/profile.jpg" alt="Моё фото" class="avatar" width="220" loading="lazy">
+  <img src="images/jd.jpg" alt="Моё фото" class="avatar" width="220" loading="lazy">
 
   **Привет!**  Меня зовут Юлия, я Product & Project manager. Более 5 лет занимаюсь организацией и запуском проектов: соединяю продукт, маркетинг и продажи в единые бизнес-процессы в сферах EdTech, MICE, MedTech. Параллельно веду свой проект по коучинговому сопровождению.
 </div>
