@@ -27,7 +27,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: light scheme
-  logo: images/logojd.png        
+  logo: images/logo.png        
   favicon: images/favicon.png    
 
 nav:
