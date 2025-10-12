@@ -10,10 +10,5 @@
 
     [:material-arrow-right: На главную](../index.md){ .md-button }
 
--   :material-rss: **RSS-лента**
-    
-    Подпишитесь, чтобы не пропускать новые посты.
-
-    [:material-rss: Подписаться](../rss.xml){ .md-button }
 
 </div>
