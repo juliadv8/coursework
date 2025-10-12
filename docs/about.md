@@ -1,7 +1,14 @@
 ## Обо мне
 
 <figure style="text-align:center" markdown>
-  <img src="images/profile.jpg" alt="Моё фото" width="260" loading="lazy">
+  <img
+    src="images/profile.jpg"
+    alt="Моё фото"
+    width="160"
+    height="160"
+    style="border-radius:50%; object-fit:cover; display:inline-block;"
+    loading="lazy"
+  >
   <figcaption>Привет! Это я :)</figcaption>
 </figure>
 
