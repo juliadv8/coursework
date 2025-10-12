@@ -9,9 +9,9 @@ theme:
   font:
     text: Montserrat
   icon:
-    logo: material/rocket-launch
+    logo: images/logo.svg
     favicon: images/favicon.png
-  extra_css:
+extra_css:
   - styles/typography.css
   features:
     - navigation.tabs
