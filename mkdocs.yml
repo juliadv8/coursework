@@ -34,6 +34,7 @@ nav:
   - Главная: index.md
   - Обо мне: about.md
   - Проекты: projects.md
+  - Блог: blog/index.md
   - Контакты: contacts.md
 
 plugins:
