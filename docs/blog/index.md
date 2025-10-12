@@ -2,16 +2,20 @@
 
 <div class="grid cards" markdown="1">
 
--   :material-note-text: **{{ title | default("Первый пост") }}**
-    
-    Короткое описание поста: что внутри и кому полезно.
+-   :material-note-text: **Как устроен этот сайт (MkDocs + Material)**  
+    _13.10.2025 · теги: mkdocs, material, учебный проект_
 
-    [:material-arrow-right: Читать](2025-10-12-first-post.md){ .md-button .md-button--primary }
+    Кратко о структуре, где лежит контент и как запускать локально.
 
--   :material-note-text: **Второй пост**
+    [:material-arrow-right: Читать](2025-10-13-first-post.md){ .md-button .md-button--primary }
 
-    Ещё один пост с подсказками.
+-   :material-note-text: **Карточки и кнопки в Material — быстрый шаблон**  
+    _12.10.2025 · теги: ui, material, markdown_
 
-    [:material-arrow-right: Читать](2025-10-18-second-post.md){ .md-button }
+    Готовый фрагмент с grid cards и кнопками + мини-чек-лист настроек.
+
+    [:material-arrow-right: Читать](2025-10-12-cards-and-buttons.md){ .md-button }
 
 </div>
+
+
