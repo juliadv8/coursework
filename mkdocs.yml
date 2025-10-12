@@ -35,7 +35,10 @@ nav:
   - О себе: about.md
   - Проекты: projects.md
   - Контакты: contacts.md
-  - Блог: blog/index.md 
+  - Блог:
+      - Лента: blog/index.md
+      - Деплой MkDocs на GitHub Pages (Actions) — короткая шпаргалка: blog/posts/2025-10-13-deploy-with-actions.md
+      - Изображения в MkDocs — 7 частых ошибок и как их исправить: blog/posts/2025-10-13-images-in-mkdocs.md
 
 plugins:
   - search:
