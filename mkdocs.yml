@@ -43,9 +43,9 @@ nav:
 plugins:
   - search:
       lang: [ru]
-  - sitemap:
-      changefreq: daily
-      priority: 0.5
+  # - sitemap:
+  #     changefreq: daily
+  #     priority: 0.5
       
 markdown_extensions:
   - toc:
