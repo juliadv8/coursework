@@ -37,8 +37,4 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
-        
-name: Install dependencies
-  run: |
-    python -m pip install --upgrade pip
-    pip install mkdocs mkdocs-material pymdown-extensions mkdocs-sitemap-plugin
+
