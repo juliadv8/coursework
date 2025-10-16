@@ -8,7 +8,7 @@
 
     Самый быстрый способ связаться.
 
-    [:simple-telegram: Написать](https://t.me/julienko){ .md-button .md-button--primary }
+    [:simple-telegram: Написать](https://t.me/){ .md-button .md-button--primary }
 
 -   :simple-github: **GitHub**
 
